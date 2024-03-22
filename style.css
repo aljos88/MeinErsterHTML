@@ -1,7 +1,56 @@
+/* Comment */
+
 p {
-    background-color: #8ecae6;
+  background-color: #8ecae6;
 }
 
 .footertext {
-    background-color: yellow;
-  }
+  background-color: yellow;
+  font-size: smaller;
+}
+
+.header_text {
+  font-style: italic;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.gif_container {
+  font-style: italic;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.gifContainer2 {
+  font-family: monospace;
+  text-align: center;
+  font-size: large;
+  padding-top: 20px;
+}
+
+h2,
+h3 {
+  font-family: fantasy;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.Container {
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+i {
+  font-size: larger;
+}
